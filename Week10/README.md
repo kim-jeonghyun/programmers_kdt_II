@@ -25,7 +25,7 @@ In the notebook ConvolutionalNetworks.ipynb you will implement several new layer
 The notebook RNN_Captioning.ipynb will walk you through the implementation of vanilla recurrent neural networks and apply them to image captioning on COCO.
 
 #### 첨부파일
-RNN_Captioning.ipynb
-FullyConnectedNets.ipynb
-ConvolutionalNetworks.ipynb
+RNN_Captioning.ipynb  
+FullyConnectedNets.ipynb  
+ConvolutionalNetworks.ipynb  
 BatchNormalization.ipynb
